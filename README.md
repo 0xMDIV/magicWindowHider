@@ -1,4 +1,4 @@
-# magicWindowHider
+# magicWindowHider - WIndows Only
 hides windows when you click at them, wasnt supposed to do this but whatever
 i tryed to have a python window always on top of other windows, but i kinda failed there
 the magicWindowHider hides any window you click on your computer, yes even the taskbar, 
